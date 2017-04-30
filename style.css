@@ -52,6 +52,13 @@ iframe{
   height: 850px;
 }
 
+.bgimg {
+    background-image: url('foto/hero.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
 .navegacion{
 	float: left;
 	margin: 2em;
@@ -75,14 +82,93 @@ iframe{
   margin-top: 2em;
 
 }
+span{
+  color: black;
+  font-weight: bold;
+}
 
-.bgimg {
-    background-image: url('foto/hero.jpg');
+.hector_diseniodimg {
+    background-image: url('foto/hector_disenio.jpeg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.hector_indimg {
+    background-image: url('foto/hector_ind.jpeg');
     min-height: 100%;
     background-position: center;
     background-size: cover;
 }
 
+.jaimeimg {
+    background-image: url('foto/jaime.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.jorgeimg {
+    background-image: url('foto/jorge.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.marioimg {
+    background-image: url('foto/mario.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.ortegaimg {
+    background-image: url('foto/ortega.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.pepeimg {
+    background-image: url('foto/pepe.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.robertimg {
+    background-image: url('foto/robert.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.davidimg {
+    background-image: url('foto/david.jpeg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.victorimg {
+    background-image: url('foto/victor.jpeg');
+    height: 400px;
+    
+    background-size: cover;
+
+}
+
+.texto h6{
+
+    color: white;
+    font-weight: bold;
+    text-align: right;
+    padding-left: 4em;  
+}
+
+.texto h3{
+  text-align: right;
+  font-weight: bold;
+  color: white;
+  font-size: 2em;
+  padding-right: 2.5em;
+  text-decoration: underline black;
+  
+
+}
 .border{
 	border: 1px solid transparent;
     padding: 15px;
