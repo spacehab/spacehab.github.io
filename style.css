@@ -31,6 +31,7 @@ li a{
 	display: block;
 	text-align: right;
 	text-decoration: none;
+
 }
 li a:hover{
 	color: blue;
@@ -54,7 +55,7 @@ iframe{
 .navegacion{
 	float: left;
 	margin: 2em;
-	background-image: url('foto/hero.jpg');
+	background-image: url('foto/IMG_20170428_224903.jpg');
   min-height: 100%;
   background-position: center;
   background-size: cover;
@@ -64,6 +65,10 @@ iframe{
 .fijo{
 	position: fixed;
   z-index: 1;
+  background-color:black; 
+  opacity: 0.5;
+  text-align: top;
+
 }
 .fijo img{
   margin-right: 75%;
