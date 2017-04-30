@@ -52,6 +52,10 @@ iframe{
   height: 850px;
 }
 
+table{
+  padding-left: 3em;
+}
+
 .bgimg {
     background-image: url('foto/hero.jpg');
     min-height: 100%;
@@ -150,6 +154,8 @@ span{
     background-size: cover;
 
 }
+
+
 
 .texto h6{
 
