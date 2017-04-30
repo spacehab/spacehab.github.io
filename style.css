@@ -1,0 +1,104 @@
+*{
+  padding: 0px;
+  margin: 0px;
+
+}
+
+body{
+	background-color: #656464;
+}
+
+
+
+ul{
+  float: left;	
+  list-style-type:  none;
+  position: relative;
+  padding-left: 75%;
+  padding-top: 3%;
+  
+  
+}
+
+li{
+	
+	margin-right: 40%;
+    
+}
+
+li a{
+	font-size: 1em;
+	display: block;
+	text-align: right;
+	text-decoration: none;
+}
+li a:hover{
+	color: blue;
+}
+
+
+
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+
+
+h6{
+	margin-right: 3px;
+	margin-left: 2px;
+}
+iframe {
+	height: 900px;
+}
+
+border{
+
+
+}
+.navegacion{
+	float: left;
+	margin: 2em;
+	background-image: url('foto/hero.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    border: 1px solid transparent;
+    box-shadow: 5px 10px 5px #888888;
+}
+.fijo{
+	position: fixed;
+}
+
+.bgimg {
+    background-image: url('foto/hero.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.border{
+	border: 1px solid transparent;
+    padding: 15px;
+    -webkit-box-shadow:0 10px 6px -6px black;
+    -moz-box-shadow: 0 10px 6px -6px black;
+    box-shadow: 0 10px 6px -6px black;
+
+}
+
+.titulo{
+	padding-top: 35%;
+	color: white;
+	margin-left: 2em;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
